@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  StaticGlassesVR
+
+  Created by Jeavil on 16/8/4.
+  Copyright © 2016年 topplusvision. All rights reserved.
+*/
+"列表"="Multiple";
+"请把头部放在竖线中间，点击录制按钮"="Pose the head along the central vertical line and press the recording button";
+"请把手机竖直放置"="Pose the mobile-phone vertically";
+"请跟随蓝色竖线，左右转动头部"="Follow the blue vertical line and rotate the head in left-right direction";

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Ax</key>
+		<string>0.062072</string>
+		<key>Ay</key>
+		<string>0.566072</string>
+		<key>Az</key>
+		<string>0.060614</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>-54.4151</string>
+		<key>Ty</key>
+		<string>-17.5386</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.06594</string>
+		<key>Ay</key>
+		<string>0.485886</string>
+		<key>Az</key>
+		<string>0.04879</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>-49.1687</string>
+		<key>Ty</key>
+		<string>-17.1567</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.063846</string>
+		<key>Ay</key>
+		<string>0.411685</string>
+		<key>Az</key>
+		<string>0.049548</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>-41.6629</string>
+		<key>Ty</key>
+		<string>-17.8017</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.066595</string>
+		<key>Ay</key>
+		<string>0.337664</string>
+		<key>Az</key>
+		<string>0.044733</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>-33.7329</string>
+		<key>Ty</key>
+		<string>-18.4844</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.059104</string>
+		<key>Ay</key>
+		<string>0.25676</string>
+		<key>Az</key>
+		<string>0.024526</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>-26.711</string>
+		<key>Ty</key>
+		<string>-18.9207</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.04612</string>
+		<key>Ay</key>
+		<string>0.13209</string>
+		<key>Az</key>
+		<string>0.023142</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>-15.9769</string>
+		<key>Ty</key>
+		<string>-19.5772</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.049179</string>
+		<key>Ay</key>
+		<string>0.063137</string>
+		<key>Az</key>
+		<string>0.021524</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>-4.51217</string>
+		<key>Ty</key>
+		<string>-19.1635</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.069306</string>
+		<key>Ay</key>
+		<string>-0.019966</string>
+		<key>Az</key>
+		<string>0.017945</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>3.37737</string>
+		<key>Ty</key>
+		<string>-17.7752</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.069965</string>
+		<key>Ay</key>
+		<string>-0.014207</string>
+		<key>Az</key>
+		<string>0.019229</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>4.766</string>
+		<key>Ty</key>
+		<string>-18.0275</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.053294</string>
+		<key>Ay</key>
+		<string>-0.085863</string>
+		<key>Az</key>
+		<string>0.008302</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>14.1321</string>
+		<key>Ty</key>
+		<string>-19.4404</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.048591</string>
+		<key>Ay</key>
+		<string>-0.161166</string>
+		<key>Az</key>
+		<string>-0.002814</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>18.8161</string>
+		<key>Ty</key>
+		<string>-21.1822</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.054228</string>
+		<key>Ay</key>
+		<string>-0.254618</string>
+		<key>Az</key>
+		<string>-0.030733</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>27.3943</string>
+		<key>Ty</key>
+		<string>-20.5908</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.042859</string>
+		<key>Ay</key>
+		<string>-0.396215</string>
+		<key>Az</key>
+		<string>-0.036279</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>36.3952</string>
+		<key>Ty</key>
+		<string>-21.4026</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.058295</string>
+		<key>Ay</key>
+		<string>-0.511448</string>
+		<key>Az</key>
+		<string>-0.058083</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>45.652</string>
+		<key>Ty</key>
+		<string>-21.8895</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+	<dict>
+		<key>Ax</key>
+		<string>0.063653</string>
+		<key>Ay</key>
+		<string>-0.577122</string>
+		<key>Az</key>
+		<string>-0.073815</string>
+		<key>PD</key>
+		<string>60</string>
+		<key>PE</key>
+		<string>85.7</string>
+		<key>PM</key>
+		<string>65.2</string>
+		<key>Tx</key>
+		<string>53.5302</string>
+		<key>Ty</key>
+		<string>-21.8443</string>
+		<key>Tz</key>
+		<string>345.858</string>
+	</dict>
+</array>
+</plist>
