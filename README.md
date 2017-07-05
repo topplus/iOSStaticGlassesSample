@@ -19,7 +19,7 @@ Xcode7.0及以上版本
 
 ### 授权认证 ###
 
-调用TopFaceSDKHandle的setLicense：（NSString *）Client_id和Secret：（NSString *）Clicent_secret; 说明：申请client_id和client_secret后调用此函数获得授权。不调用认证函数无法使用人脸检测功能，正确调用认证函数即可正常使用。
+调用SDKHandle的setLicense：（NSString *）Client_id和Secret：（NSString *）Clicent_secret; 说明：申请 client_id 和 client_secret 后调用此函数获得授权。可通过商务合作邮箱sales@topplusvision.com获得client_id 和 client_secret
 
 
 ## 接口定义和使用说明 ##
