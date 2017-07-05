@@ -1,4 +1,4 @@
-# AndroidStaticGlassesSample使用说明
+# IOSStaticGlassesSample使用说明
 
 [官网](http://www.topplusvision.com)
 
